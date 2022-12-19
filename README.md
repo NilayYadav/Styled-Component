@@ -1,4 +1,4 @@
 # Styled-Component
 
-npm install
+npm install <br>
 npm start
